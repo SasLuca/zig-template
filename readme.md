@@ -9,8 +9,8 @@ This is a very basic template that should allow you build/run/debug zig code fro
 4. Delete or edit this readme to match your project.
 
 ### Requirements
-1. Have `zig` installed and available from your command line.
-2. Optionally have `zls` installed and available from your commandl line (the Zig language server).
+1. Have `zig` available from your `PATH`.
+2. Optionally have `zls` available from your `PATH` (the Zig language server).
 
 
 ### Additional resources
